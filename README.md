@@ -27,7 +27,7 @@ The target variable is binary, representing whether a customer will make another
 1: The customer is likely to buy again
 0: The customer is unlikely to buy again
 
-####Timeframe
+#### Timeframe
 The prediction window spans the next 6 months following a 2-year period of customer activity. If a customer does not convert within these 6 months, it's assumed they may have switched to a competitor or are no longer interested in the Audiobook service.
 
 #### Implementation
