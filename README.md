@@ -25,6 +25,7 @@ Last visited minus purchase date (days)
 The target variable is binary, representing whether a customer will make another purchase:
 
 1: The customer is likely to buy again
+
 0: The customer is unlikely to buy again
 
 #### Timeframe
