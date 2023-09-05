@@ -12,20 +12,19 @@ The objective is to create a machine learning model that predicts whether a cust
 #### Dataset
 The dataset provided contains the following fields:
 
-Customer ID (arbitrary identifier)
-Book length in minutes (average and sum)
-Price paid (average and sum)
-Review (Boolean and out of 10)
-Total minutes listened
-Completion rate (0 to 1)
-Support requests (number)
-Last visited minus purchase date (days)
+Customer ID (arbitrary identifier)<br> 
+Book length in minutes (average and sum)<br> 
+Price paid (average and sum)<br> 
+Review (Boolean and out of 10)<br> 
+Total minutes listened<br> 
+Completion rate (0 to 1)<br> 
+Support requests (number)<br> 
+Last visited minus purchase date (days)<br> 
 
 #### Target
 The target variable is binary, representing whether a customer will make another purchase:
 
-1: The customer is likely to buy again
-
+1: The customer is likely to buy again<br> 
 0: The customer is unlikely to buy again
 
 #### Timeframe
